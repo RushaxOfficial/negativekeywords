@@ -1,20 +1,20 @@
 ## -- Materials -- ##
 
-aluminum
-ceramic
-cotton
-fabric
-glass
-gold
-iron
-leather
-metal
-paper
-plastic
-rubber
-silver
-stainless steel
-steel
-stone
-vinyl
-wood
+"aluminum"
+"ceramic"
+"cotton"
+"fabric"
+"glass"
+"gold"
+"iron"
+"leather"
+"metal"
+"paper"
+"plastic"
+"rubber"
+"silver"
+"stainless steel"
+"steel"
+"stone"
+"vinyl"
+"wood"

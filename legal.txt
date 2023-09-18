@@ -1,14 +1,14 @@
 ## -- Legal -- ##
 
-act
-law
-laws
-lawsuit
-lawyer
-lawyers
-lease
-legal
-legislation
-legislations
-regulation
-regulations
+"act"
+"law"
+"laws"
+"lawsuit"
+"lawyer"
+"lawyers"
+"lease"
+"legal"
+"legislation"
+"legislations"
+"regulation"
+"regulations"
